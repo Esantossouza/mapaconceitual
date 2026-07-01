@@ -1,2 +1,0 @@
-# mapaconceitual
-mapa conceitual
